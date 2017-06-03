@@ -1,0 +1,29 @@
+% Package for achieving i18n of content
+% 
+% (c) Ilario Pierbattista
+%
+%% This program can be redistributed and/or modified under the terms
+%% of the LaTeX Project Public License Distributed from CTAN archives
+%% in directory macros/latex/base/lppl.txt.
+% 
+\NeedsTeXFormat{LaTeX2e}[1994/06/01]
+\ProvidesPackage{i18n}[2017/04/23 v0.1 LaTeX package for content i18n]
+
+% Selected language
+\def\selectedlang{en}
+\newcommand{\setselectedlang}[1]{
+  \def\selectedlang{#1}
+}
+
+% Print content in some language
+\newcommand{\lang}[2]{%
+  \ifthenelse{ \equal{\selectedlang}{#1} }{#2}{}%
+}
+
+% Exec command
+\newcommand{\localexecute}[2]{
+  \ifthenelse{ \equal{\selectedlang}{#1} }{
+    \expandafter#2
+  }{\expandafter{}}
+}
+
