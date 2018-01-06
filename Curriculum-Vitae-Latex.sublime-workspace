@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"DR",
+				"drop_ids"
+			],
+			[
 				"use",
 				"usepackage"
 			],
@@ -47,14 +51,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 2192,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -222,12 +218,46 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Github/Curriculum-Vitae-Latex"
-	],
 	"file_history":
 	[
+		"/C/Users/Claudio/Downloads/Telegram Desktop/Bot Clash Royale.txt",
+		"/C/Program Files (x86)/Droid4X/local.ini",
+		"/C/Users/Claudio/AppData/Local/Droid4X/D4XU.ini",
+		"/C/Users/Claudio/AppData/Local/Droid4X/conf.ini",
+		"/C/Program Files (x86)/danny_kay1710/PSP ISO Compressor/readme.txt",
+		"/C/Program Files (x86)/Droid4X/qt.conf",
+		"/C/Program Files (x86)/Droid4X/multi_en.qm",
+		"/C/Program Files (x86)/Droid4X/channel.ini",
+		"/C/Program Files (x86)/Droid4X/firewall_path.txt",
+		"/C/Program Files (x86)/Droid4X/id.dat",
+		"/C/Program Files (x86)/Droid4X/err.txt",
+		"/C/Users/Claudio/AppData/Local/Droid4X/log/DXUpdate_17-06-20.log",
+		"/C/Users/Claudio/AppData/Local/Droid4X/log/Droid4X_17-06-20.log",
+		"/C/Users/Claudio/AppData/Local/Droid4X/log/HinfoTool_17-06-18.log",
+		"/C/Users/Claudio/AppData/Local/Droid4X/log/HaimaBK_17-06-20.log",
+		"/C/Users/Claudio/AppData/Local/Droid4X/rtTemp.ini",
+		"/C/Users/Claudio/AppData/Local/Droid4X/droid4x.dat",
+		"/C/hsrv.txt",
+		"/C/Program Files (x86)/Droid4X/AmdSupport.txt",
+		"/C/Users/Claudio/AppData/Local/Temp/Rar$DIa0.214/README.md",
+		"/C/Users/Claudio/AppData/Roaming/Spotify/prefs",
+		"/C/Users/Claudio/AppData/Local/Temp/Rar$DIa0.235/README.md",
+		"/C/Users/Claudio/Downloads/Telegram Desktop/try.pl",
+		"/C/Drop tracker/ffrk_drop_tracker.py",
+		"/C/Users/Claudio/Downloads/Telegram Desktop/try (2).pl",
+		"/C/Users/Claudio/odrive/Dropbox/Laurea Magistrale IIA/intelligenza artificiale/Appelli/Scritto/esercizio1_28_luglio.pl",
+		"/C/Users/Claudio/Documents/Prolog/prova.txt",
+		"/C/Users/Claudio/Downloads/Telegram Desktop/Test",
+		"/C/Drop tracker/ffrk_drop_tracker_db.csv",
+		"/C/Drop tracker/161000001,Bomb XII 1",
+		"/C/Users/Claudio/Desktop/Off1c316/Microsoft Office 2016 VL v15 33 0 MacOSX/README !!! LEGGIMI.txt",
+		"/C/Program Files/nodejs/com.dena.west.FFRK.android/_locales/en/messages.json",
+		"/C/Program Files/nodejs/com.dena.west.FFRK.android/manifest.json",
+		"/C/Drop tracker/Droptracker.bat",
+		"/C/Drop tracker/DropTracker.bat",
+		"/C/Users/Claudio/Desktop/p1_09.pl",
+		"/C/Users/Claudio/Desktop/chromeos-apk-4.0.0/chromeos-apk-4.0.0/chromeos-apk",
+		"/C/Github/Curriculum-Vitae-Latex/.gitignore",
 		"/C/Github/Curriculum-Vitae-Latex/resume_cv.tex",
 		"/C/Github/Curriculum-Vitae-Latex/CV.sublime-project",
 		"/C/Github/Curriculum-Vitae-Latex/cv-sections/tools.tex",
@@ -317,48 +347,11 @@
 		"/C/Users/Claudio/AppData/Roaming/Sublime Text 3/Packages/JSON Reindent/JSONReindent.sublime-settings",
 		"/C/Users/Claudio/AppData/Roaming/Sublime Text 3/Packages/User/JSONReindent.sublime-settings",
 		"/C/mongodb/bin/mongod.cfg",
-		"/C/Users/Claudio/Desktop/stream.strm",
-		"/C/Users/Claudio/Desktop/atv_mvp.m3u8",
-		"/C/Users/Claudio/odrive/Dropbox/Appunti lezioni/tecnologieWeb/tecnologieWeb.tex",
-		"/C/Users/Claudio/odrive/Dropbox/Appunti lezioni/SharedPreamble/AdvCommands.tex",
-		"/C/Users/Claudio/odrive/Dropbox/Appunti lezioni/SharedPreamble/Packages.tex",
-		"/C/Users/Claudio/odrive/Dropbox/Appunti lezioni/SharedPreamble/Environments.tex",
-		"/C/Users/Claudio/odrive/Dropbox/Appunti lezioni/SharedPreamble/Format.tex",
-		"/C/Users/Claudio/odrive/Dropbox/Appunti lezioni/SharedPreamble/Macros.tex",
-		"/C/Users/Claudio/odrive/Dropbox/Appunti lezioni/SharedPreamble/Localization.tex",
-		"/C/wamp64/logs/access.log",
-		"/C/wamp64/logs/php_error.log",
-		"/C/Users/Claudio/AppData/Local/Temp/Rar$DIa0.846/README.rst",
-		"/C/wamp64/www/TWeb/application/controllers/AjaxController.php",
-		"/C/wamp64/www/TWeb/application/models/resources/Post.php",
-		"/C/wamp64/www/TWeb/application/models/resources/Post/item.php",
-		"/C/wamp64/www/TWeb/application/models/AppUser.php",
-		"/C/wamp64/www/TWeb/application/models/Profilo.php",
-		"/C/wamp64/www/TWeb/public/js/amici.js",
-		"/C/wamp64/www/TWeb/public/js/guest.js",
-		"/C/wamp64/www/TWeb/public/js/cerca.js",
-		"/C/wamp64/www/TWeb/application/models/resources/Notifiche/Item.php",
-		"/C/wamp64/www/TWeb/application/models/resources/PermessiAlbum/Item.php",
-		"/C/wamp64/www/TWeb/application/models/resources/PartecipantiConversazione/Item.php",
-		"/D/Università/MAGISTRALE/Tweb/Altri progetti/Progetto TWeb Friends In The Box/TWeb/public/js/easyzend.js",
-		"/D/Università/MAGISTRALE/Tweb/Altri progetti/metromed-master-ilario/metromed-master/ZendProject/library/Metromed/Controller/User.php",
-		"/D/Università/MAGISTRALE/Tweb/Altri progetti/metromed-master-ilario/metromed-master/ZendProject/library/Metromed/Controller/Guest.php",
-		"/D/Università/MAGISTRALE/Tweb/Altri progetti/metromed-master-ilario/metromed-master/ZendProject/application/forms/Utente.php",
-		"/D/Università/MAGISTRALE/Tweb/Esempi Lezioni/ZPtrunk/ZPtrunk/ZendProject6/application/Bootstrap.php",
-		"/D/Università/MAGISTRALE/Tweb/Esempi Lezioni/ZPtrunk/ZPtrunk/ZendProject6/application/configs/application.ini",
-		"/C/Users/Claudio/Documents/LaTeX/CV_LaTeX/deedy-resume.cls",
-		"/C/Users/Claudio/Documents/LaTeX/CV_LaTeX/cv_12.tex",
-		"/C/Users/Claudio/Documents/LaTeX/decompile apk/decompile.tex",
-		"/D/Serie TV/Game.of.Thrones.S06E04.720p.HDTV.x265.ShAaNiG.mkv/Game.of.Thrones.S06E04.720p.HDTV.x265.ShAaNiG.mkv/Game.of.Thrones.S06E04.720p.HDTV.x265.ShAaNiG.srt",
-		"/C/Users/Claudio/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/README.markdown",
-		"/C/Users/Claudio/Documents/LaTeX/cv_12/cv_12.tex",
-		"/C/Zend Framework/ZendFramework-1.12.18/INSTALL.md",
-		"/C/Zend Framework/ZendFramework-1.12.18/DEVELOPMENT_README.md",
-		"/C/wamp64/apps/phpmyadmin4.5.2/config.inc.php"
+		"/C/Users/Claudio/Desktop/stream.strm"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -377,6 +370,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_",
+			",",
+			"\t",
+			"ext",
+			"key",
+			"keyw",
+			"key",
 			"40%",
 			"ligh",
 			"gacha_series_id",
@@ -423,6 +423,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			" ",
+			"_",
 			",",
 			" | "
 		],
@@ -435,37 +437,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2192,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Materialize/Langs/Git.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 700.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -516,7 +489,7 @@
 	"project": "Curriculum-Vitae-Latex.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 114.0
 	},
 	"save_all_on_build": true,
 	"select_file":
